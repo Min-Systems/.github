@@ -2,6 +2,8 @@
 
 Here at MinSystems LLC, our focus is on minimalism. We believe simplicity drives innovation. Our mission is to create seamless, user-friendly experiences through minimalistic design principles. We specialize in developing lightweight and efficient applications that prioritize speed, accessibility, and intuitive user interaction.  
 
+# Current Projects:
+- Minflix
 <!--
 
 **Here are some ideas to get you started:**
